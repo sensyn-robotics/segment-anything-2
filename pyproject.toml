@@ -1,3 +1,11 @@
+[project]
+name = "segment-anything-2"
+version = "0.1.0"
+description = "SAM 2: Segment Anything in Images and Videos"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = []
+
 [build-system]
 requires = [
     "setuptools>=61.0",  
